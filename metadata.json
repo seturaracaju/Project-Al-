@@ -1,0 +1,7 @@
+{
+  "name": "Alê - SecretárIA Virtual",
+  "description": "Uma Landing Page de alta conversão para a Alê, a secretária virtual inteligente para clínicas e médicos, focada em recuperação de faturamento e automação de voz.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
